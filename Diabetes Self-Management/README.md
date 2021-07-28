@@ -1,1 +1,0 @@
-Dataset containing information about participants in the Austin Public Health's Diabetes Self-Management Education program. This includes demographic information, diabetes status, and other health indicators.
